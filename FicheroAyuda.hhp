@@ -1,0 +1,31 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=FicheroAyuda.chm
+Contents file=Table of Contents.hhc
+Default topic=AltaCliente.html
+Display compile progress=No
+Language=0xc0a Español (España, internacional)
+
+
+[FILES]
+AltaCliente.html
+AltaCompra.html
+AltaConcesionario.html
+AltaMoto.html
+AltaUsuario.html
+BajaClientes.html
+BajaConcesionario.html
+BajaMoto.html
+BajaUsuario.html
+Bienvenida.html
+ListadoClientes.html
+ListadoCompra.html
+ListadoConcesionario.html
+ListadoMoto.html
+ListadoUsuario.html
+ModificarCliente.html
+ModificarConcesionario.html
+ModificarUsuario.html
+
+[INFOTYPES]
+

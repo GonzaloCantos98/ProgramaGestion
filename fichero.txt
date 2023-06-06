@@ -1,0 +1,23 @@
+[28/05/2023 12:48:52][ null]INSERT INTO clientes VALUES (null, '1','1');
+[28/05/2023 12:49:27][ null]INSERT INTO clientes VALUES (null, '1','3');
+[28/05/2023 12:50:07][ null]INSERT INTO clientes VALUES (null, '1','3');
+[28/05/2023 12:50:57][ null]INSERT INTO clientes VALUES (null, 'Gonzalo','Ducati');
+[28/05/2023 12:52:33][ null]INSERT INTO compras VALUES (null, '1','1');
+[28/05/2023 12:52:56][ null]INSERT INTO compra VALUES (null, '1','1');
+[28/05/2023 12:53:03][ null]INSERT INTO compra VALUES (null, '1','3');
+[28/05/2023 12:53:52][ null]INSERT INTO compra VALUES (null, 'Gonzalo','3');
+[28/05/2023 12:53:56][ null]INSERT INTO compra VALUES (null, '1','3');
+[28/05/2023 12:55:14][ null]INSERT INTO compra VALUES (null, '1','1');
+[29/05/2023 12:38:21][ admin]INSERT INTO usuarios VALUES (null, 'gonzalo23', SHA2('123',256), 1);
+[31/05/2023 17:45:42][ admin]INSERT INTO usuarios VALUES (null, 'user', SHA2('user',256), 1);
+[31/05/2023 17:45:42][ admin]INSERT INTO usuarios VALUES (null, 'user', SHA2('user',256), 1);
+[31/05/2023 17:47:54][ admin]INSERT INTO clientes VALUES (null, 'Pablo','Garcia', 'Lorca','Malaga','555111333','pablo@gmail.com','3');
+[31/05/2023 17:48:19][ admin]INSERT INTO usuarios VALUES (null, 'user1', SHA2('user',256), 1);
+[31/05/2023 17:48:19][ admin]INSERT INTO usuarios VALUES (null, 'user1', SHA2('user',256), 1);
+[31/05/2023 17:49:34][ admin]INSERT INTO usuarios VALUES (null, 'user2', SHA2('user',256), 1);
+[01/06/2023 10:24:15][ admin]INSERT INTO motos VALUES (null, 'YamahaR1','2018/10/20', '2015/10/20','180','Negro','9','20000.00');
+[01/06/2023 10:37:39][ admin]DELETE FROM motos WHERE idMotos = 14
+[01/06/2023 10:37:45][ admin]DELETE FROM motos WHERE idMotos = 16
+[01/06/2023 10:38:05][ admin]DELETE FROM motos WHERE idMotos = 15
+[01/06/2023 11:26:53][ admin]INSERT INTO compra VALUES (null, '8','17');
+[02/06/2023 12:54:26][ ]INSERT INTO motos VALUES (null, 'Aprilia','2002/10/10', '2002/10/10','110','Rojo','9','9999.99');
